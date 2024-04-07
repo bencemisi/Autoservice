@@ -1,0 +1,6 @@
+ABCD123 : 45000 : 2018.10.30 : Motorcsere es festes; 
+ASD123 : 342000 : 2010.10.28 : Olajcsere; 
+ALMA123 : 35000 : 2012.10.10 : Olajcsere, defektjavitas; 
+TEST123 : 54000 : 2022.09.12 : Olajcsere, alvazjavitas, kerekcsere, festes, olajszintellenorzes, uvegcsere; 
+ALMA123 : 23789 : 2022.21.21 : defekt; 
+TPR123 : 43000 : 2022.10.10 : defekt; 

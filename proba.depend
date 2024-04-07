@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1669230100 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Input_ellenorzok.h"
+	"rajz_es_menu.h"
+	"Uj_adatok_felvetele.h"
+	"debugmalloc.h"
+	"Kereses-megtekintes_es_torles.h"
+
+1667479765 c:\users\bence\desktop\egyetem-prog\headerek\proba\hello.h
+
+1667479534 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\kiirfv.c
+	<stdio.h>
+
+1668699707 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\ugyfelmegtek.c
+	<stdio.h>
+
+1667482070 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\ujauto.c
+	<stdio.h>
+	<stdbool.h>
+
+1667479764 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\rajz_plius_menu.c
+	<stdio.h>
+
+1667150640 c:\users\bence\desktop\egyetem-prog\headerek\proba\debugmalloc (1).h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1669921064 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\rajz_es_menu.c
+	<stdio.h>
+	<stdbool.h>
+
+1668699707 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\uj_auto.c
+	<stdio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"fuggvenyek.h"
+
+1668699032 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\uj_ugyfel.c
+	<stdio.h>
+
+1668699325 c:\users\bence\desktop\egyetem-prog\headerek\proba\fuggvenyek.h
+
+1667864496 c:\users\bence\desktop\egyetem-prog\headerek\proba\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1668699707 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\auto_torles.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	"debugmalloc.h"
+
+1668699707 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\javitasok_felvetele.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"fuggvenyek.h"
+	"Input_ellenorzok.h"
+
+1668699707 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\javitas_megtek.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"debugmalloc.h"
+
+1668699159 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\evszam_bekeres.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	<time.h>
+
+1668716224 c:\users\bence\desktop\egyetem-prog\headerek\proba\rajz_es_menu.h
+
+1668683499 c:\users\bence\desktop\egyetem-prog\headerek\proba\uj_adatok_felvetele.h
+
+1668699485 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\kozeli_lejarat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	"debugmalloc.h"
+
+1669224723 c:\users\bence\desktop\egyetem-prog\headerek\proba\input_ellenorzok.h
+
+1669881539 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\input_ellenorzok.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	<time.h>
+	"Struktura.h"
+
+1669880716 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\uj_adatok_felvetele.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"Input_ellenorzok.h"
+	<stdbool.h>
+
+1669881533 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\kereses-megtekintes_es_torles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	"debugmalloc.h"
+	"Input_ellenorzok.h"
+	"Struktura.h"
+
+1669637559 c:\users\bence\desktop\egyetem-prog\headerek\proba\kereses-megtekintes_es_torles.h
+
+1669639345 source:c:\users\bence\desktop\egyetem-prog\headerek\proba\struktura.c
+	<stdio.h>
+	<stdlib.h>
+	"Struktura.h"
+
+1669640081 c:\users\bence\desktop\egyetem-prog\headerek\proba\struktura.h
+
